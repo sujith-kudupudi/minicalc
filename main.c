@@ -13,6 +13,8 @@ int main(int argc, char *argv[]) {
 
     if (op == '+') {
         printf("%g\n", a + b);
+    } else if (op == '-') {
+        printf("%g\n", a - b);
     } else {
         printf("Unsupported operator\n");
         return 1;
