@@ -9,3 +9,8 @@ A tiny command-line calculator written in C, used to practice Git and GitHub wor
 ## Usage
 
     ./minicalc 3 + 4
+	
+## Supported operators
+
+- `+` addition
+- `-` subtraction
