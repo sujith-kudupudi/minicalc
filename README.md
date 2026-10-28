@@ -1,4 +1,4 @@
-# minicalc
+# minicalc - a tiny C calculator
 
 A tiny command-line calculator written in C, used to practice Git and GitHub workflows.
 
